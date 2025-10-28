@@ -1,3 +1,9 @@
+## 0.0.4
+
+Upgrade to AGP 8.13
+
+Upgrade compileSdkVersion and targetSdkVersion to 35
+
 ## 0.0.3
 
 Upgrade to dart 2.16
